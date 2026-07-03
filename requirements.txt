@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langgraph
+python-dotenv
+passlib[bcrypt]
+python-jose
+email-validator
+sqlalchemy
+alembic
+loguru
